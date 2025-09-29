@@ -1,7 +1,7 @@
 # Curso Básico de JavaScript
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](script.js) [![GitHub](https://img.shields.io/badge/GitHub-jonaaxsic-black?logo=github)](https://github.com/jonaaxsic)  
-![JavaScript Logo](img/js.png)
+![JavaScript Logo](img/javascript.png)
 
 Este repositorio contiene un curso básico de JavaScript, ideal para quienes desean aprender los fundamentos del lenguaje desde cero. Aquí encontrarás ejemplos prácticos y explicaciones sencillas sobre los principales conceptos de JavaScript.
 
