@@ -24,15 +24,6 @@ Aún faltan algunas secciones y archivos por subir. El curso se irá actualizand
 3. Revisa el repositorio para futuras actualizaciones.
 
 ---
-# 🎨 Efectos CSS
-
-Colección de efectos en CSS con demos online.
-
-| Nombre del efecto  | Demo |
-|--------------------|------|
-| Efecto Parallax    | [Ver demo](https://tuusuario.github.io/efectos-css/parallax/) |
-| Hover Card         | [Ver demo](https://tuusuario.github.io/efectos-css/hover-card/) |
-| Loading Spinner    | [Ver demo](https://tuusuario.github.io/efectos-css/loading-spinner/) |
 
 **Autor:** [jonaaxsic](https://github.com/jonaaxsic)
 
