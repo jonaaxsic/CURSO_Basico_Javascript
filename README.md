@@ -1,6 +1,6 @@
 # Curso Básico de JavaScript
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     [![GitHub](https://img.shields.io/badge/GitHub-Jonaaxsic-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaaxsic)
  
 ![JavaScript Logo](img/javascript.png)
