@@ -17,6 +17,10 @@ Este repositorio contiene un curso básico de JavaScript, ideal para quienes des
 - Arreglos
 - Condicionales
 - Ciclo for
+- Ciclo while
+- Ciclo do While
+- Funciones
+- Carpeta con Ejercicios resueltos
 
 Cada archivo aborda un tema específico con ejemplos y explicaciones.
 
